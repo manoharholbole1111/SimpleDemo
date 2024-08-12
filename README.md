@@ -1,4 +1,4 @@
 # SimpleDemo
 This is My first  Git repository
 <br>
-Author - Manohar (Apna clg)
+Author - Munna (Apna clg)
